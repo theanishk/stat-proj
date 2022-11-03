@@ -3,7 +3,7 @@ Variables:
 	- NEER : Nominal effective exchange rate 36-currency Index
 	- REER : Real effective exchange rate 36-Currency Index
 
-(Real Exchange rate both are taken with Base Year 2015-16)
+(Real Exchange rate are taken with Base Year 2015-16)
 
 Data is taken from 2004 to 2020
 
